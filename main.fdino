@@ -1,0 +1,2 @@
+create variable power is 9000
+write line "Dino Power: {}", power
